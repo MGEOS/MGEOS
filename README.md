@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+PhD sudent at University of Freiburg
+
+
+## Publications
+
+**Gassilloud, M.**, Koch, B., & Göritz, A. (2025). Occlusion mapping reveals the impact of flight and sensing parameters on vertical forest structure exploration with cost-effective UAV based laser scanning. International Journal of Applied Earth Observation and Geoinformation, 139, 104493.
+
+
 <!--
 **MGEOS/MGEOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
