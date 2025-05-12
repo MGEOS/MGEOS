@@ -5,7 +5,7 @@ PhD sudent at University of Freiburg
 
 ## Publications
 
-**Gassilloud, M.**, Koch, B., & Göritz, A. (2025). Occlusion mapping reveals the impact of flight and sensing parameters on vertical forest structure exploration with cost-effective UAV based laser scanning. International Journal of Applied Earth Observation and Geoinformation, 139, 104493.
+**Gassilloud, M.**, Koch, B., & Göritz, A. (2025). [Occlusion mapping reveals the impact of flight and sensing parameters on vertical forest structure exploration with cost-effective UAV based laser scanning](https://www.sciencedirect.com/science/article/pii/S1569843225001402). International Journal of Applied Earth Observation and Geoinformation, 139, 104493.
 
 
 <!--
