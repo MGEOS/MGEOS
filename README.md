@@ -20,7 +20,7 @@ Debray, H., **Gassilloud M.**, Lemoine-Rodríguez R., Wurm, M., Zhu X., Taubenb�
 
 ## Conference Contributions
 
-**Gassilloud, M.**, Dedden, L., Koch, B., Kattenborn, T., Weiler, M., and Göritz, A. (2025). [Elucidating spatio-temporal throughfall dynamics with ULS derived forest structure density metrics](https://meetingorganizer.copernicus.org/EGU25/EGU25-19485.html). EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-19485, https://doi.org/10.5194/egusphere-egu25-19485 
+**Gassilloud, M.**, Dedden, L., Koch, B., Kattenborn, T., Weiler, M., Göritz, A. (2025). [Elucidating spatio-temporal throughfall dynamics with ULS derived forest structure density metrics](https://meetingorganizer.copernicus.org/EGU25/EGU25-19485.html). EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-19485, https://doi.org/10.5194/egusphere-egu25-19485 
 
 Sulzer, M., [...], **Gassilloud, M.**, [...], Werner, C. (2025). [The ECOSENSE forest – enriching tower-based flux measurements of carbon and water exchange with novel distributed sensor networks](https://aca.pensoft.net/article/149267/). ARPHA Conference Abstracts 8: e149267. https://doi.org/10.3897/aca.8.e149267
 
