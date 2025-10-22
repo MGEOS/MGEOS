@@ -12,6 +12,8 @@ This is a collection of python tools I developed for various data processing tas
 
 ## Publications
 
+Möhring, J., [...], **Gassilloud, M.**, [...], Mosig, C. (2025). [Global, multi-scale standing deadwood segmentation in centimeter-scale aerial images](https://www.sciencedirect.com/science/article/pii/S2667393225000237?via%3Dihub). ISPRS Open Journal of Photogrammetry and Remote Sensing, 18, 100104.
+
 Debray, H., **Gassilloud M.**, Lemoine-Rodríguez R., Wurm, M., Zhu X., Taubenböck, H. (2025). [Universal patterns of intra-urban morphology: Defining a global typology of the urban fabric using unsupervised clustering](https://www.sciencedirect.com/science/article/pii/S1569843225002572). International Journal of Applied Earth Observation and Geoinformation, 141, 104610.
 
 **Gassilloud, M.**, Koch, B., & Göritz, A. (2025). [Occlusion mapping reveals the impact of flight and sensing parameters on vertical forest structure exploration with cost-effective UAV based laser scanning](https://www.sciencedirect.com/science/article/pii/S1569843225001402). International Journal of Applied Earth Observation and Geoinformation, 139, 104493.
