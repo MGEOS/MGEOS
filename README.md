@@ -1,4 +1,5 @@
 ## Hi there 👋
+<br>
 
 PhD sudent at University of Freiburg.
 This is a collection of python tools I developed for various data processing tasks.
@@ -9,8 +10,13 @@ This is a collection of python tools I developed for various data processing tas
 - UAV Lidar + Multispectral + Hyperspectral
 - Occlusion Mapping
 
+<br><br>
+
 
 ## Publications
+<br>
+
+Mosig, C., [...], **Gassilloud, M.**, [...], Kattenborn, T. (2026). [deadtrees. earth—An open-access and interactive database for centimeter-scale aerial imagery to uncover global tree mortality dynamics](https://doi.org/10.1016/j.rse.2025.115027). Remote Sensing of Environment, 332, 115027.
 
 Möhring, J., [...], **Gassilloud, M.**, [...], Mosig, C. (2025). [Global, multi-scale standing deadwood segmentation in centimeter-scale aerial images](https://www.sciencedirect.com/science/article/pii/S2667393225000237?via%3Dihub). ISPRS Open Journal of Photogrammetry and Remote Sensing, 18, 100104.
 
@@ -18,9 +24,11 @@ Debray, H., **Gassilloud M.**, Lemoine-Rodríguez R., Wurm, M., Zhu X., Taubenb�
 
 **Gassilloud, M.**, Koch, B., & Göritz, A. (2025). [Occlusion mapping reveals the impact of flight and sensing parameters on vertical forest structure exploration with cost-effective UAV based laser scanning](https://www.sciencedirect.com/science/article/pii/S1569843225001402). International Journal of Applied Earth Observation and Geoinformation, 139, 104493.
 
+<br><br>
 
 
 ## Conference Contributions
+<br>
 
 **Gassilloud, M.**, Dedden, L., Koch, B., Kattenborn, T., Weiler, M., Göritz, A. (2025). Understanding Throughfall Dynamics with ULS Forest Structure Metrics. International ECOSENSE Conference 2025, Freiburg, Germany
 
