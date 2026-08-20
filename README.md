@@ -9,6 +9,7 @@ This is a collection of python tools I developed for various data processing tas
 - Machine Learning
 - UAV Lidar + Multispectral + Hyperspectral
 - Occlusion Mapping
+- Forest Structure Dynamics
 
 <br><br>
 
@@ -29,6 +30,12 @@ Debray, H., **Gassilloud M.**, Lemoine-Rodríguez R., Wurm, M., Zhu X., Taubenb�
 
 ## Conference Contributions
 <br>
+
+**Gassilloud, M.** and Göritz, A. (2026). [Seasonal dynamics of UAV-LiDAR derived canopy transmittance in a mixed-forest ecosystem](https://meetingorganizer.copernicus.org/EGU26/EGU26-20093.html), EGU General Assembly 2026, Vienna, Austria, 3–8 May 2026, EGU26-20093, https://doi.org/10.5194/egusphere-egu26-20093
+
+Dedden, L., Brzozon, J., Dumberger, S., **Gassilloud, M.**, Göritz, A., Sulzer, M., Werner, C., and Weiler, M. (2026). [Spatio-temporal dynamics of topsoil moisture and the influence of tree species on pattern persistence](https://meetingorganizer.copernicus.org/EGU26/EGU26-16476.html), EGU General Assembly 2026, Vienna, Austria, 3–8 May 2026, EGU26-16476, https://doi.org/10.5194/egusphere-egu26-16476
+
+Göritz, A., Enriquez, A., **Gassilloud, M.**, Stock, C., Haberstroh, S., and Werner, C. (2026). [Experimental assessment of drought‑induced changes in Sun‑Induced Fluorescence (SIF), 3‑D canopy structure and UAV‑based thermal imaging of Pseudotsuga menziesii and Fagus sylvatica seedlings](https://meetingorganizer.copernicus.org/EGU26/EGU26-20481.html), EGU General Assembly 2026, Vienna, Austria, 3–8 May 2026, EGU26-20481, https://doi.org/10.5194/egusphere-egu26-20481
 
 **Gassilloud, M.**, Dedden, L., Koch, B., Kattenborn, T., Weiler, M., Göritz, A. (2025). Understanding Throughfall Dynamics with ULS Forest Structure Metrics. International ECOSENSE Conference 2025, Freiburg, Germany
 
